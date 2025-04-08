@@ -172,7 +172,6 @@ export default {
         <component :is="item.app" :class="{ 'last-block': index === activeApps.length - 1 }" />
       </div>
     </VueCustomScrollbar>
-    <Settings v-model="widgetsSettings" :class="{ 'mt-4': activeApps.length > 0 }" @change="handleChange" /* */ />
   </div>
 </template>
 
