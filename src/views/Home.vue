@@ -283,6 +283,22 @@ export default {
               </section>
               <!-- Apps End -->
 
+              <!-- Dummy Content Start -->
+<section class="section">
+  <div class="content">
+    <h2>Dummy Content Section</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo.
+      Donec ullamcorper nulla non metus auctor fringilla.
+    </p>
+    <p>
+      Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.
+      Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+    </p>
+  </div>
+</section>
+<!-- Dummy Content End -->
+
               <!-- Shortcuts Start -->
               <!-- <section>
 								<shortcuts></shortcuts>
